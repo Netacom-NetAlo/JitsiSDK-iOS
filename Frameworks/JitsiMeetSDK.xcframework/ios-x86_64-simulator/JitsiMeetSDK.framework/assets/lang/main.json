@@ -320,7 +320,10 @@
         "WaitForHostMsgWOk": "The conference <b>{{room}}</b> has not yet started. If you are the host then please press Ok to authenticate. Otherwise, please wait for the host to arrive.",
         "WaitingForHostTitle": "Waiting for the host ...",
         "Yes": "Yes",
-        "yourEntireScreen": "Your entire screen"
+        "yourEntireScreen": "Your entire screen",
+        "addMember": "Add Member",
+        "findContact": "Find Contact",
+        "invite": "Invite"
     },
     "dialOut": {
         "statusMessage": "is now {{status}}"

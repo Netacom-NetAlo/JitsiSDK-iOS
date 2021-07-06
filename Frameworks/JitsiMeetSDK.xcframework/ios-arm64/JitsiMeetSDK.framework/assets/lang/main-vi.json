@@ -256,7 +256,10 @@
         "WaitForHostMsgWOk": "Cuộc họp <b>{{room}}</b> chưa được khởi tạo. Nếu bạn là chủ nghị vui lòng nhấn OK để xác thực. Nếu không, vui lòng đợi chủ nghị.",
         "WaitingForHost": "Đang đợi chủ nghị …",
         "Yes": "Có",
-        "yourEntireScreen": "Toàn bộ màn hình của bạn"
+        "yourEntireScreen": "Toàn bộ màn hình của bạn",
+        "addMember": "Thêm thành viên",
+        "findContact": "Tìm kiếm liên hệ",
+        "invite": "Mời"
     },
     "dialOut": {
         "statusMessage": "hiện đang {{status}}"

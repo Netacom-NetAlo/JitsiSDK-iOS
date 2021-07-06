@@ -424,7 +424,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x9fClS3hjZ0ZNLmvp7xLD2vuh6Q=
+		6jdE17xBDphsgsUbXbXCu2/LmvQ=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -436,7 +436,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		x9fClS3hjZ0ZNLmvp7xLD2vuh6Q=
+		6jdE17xBDphsgsUbXbXCu2/LmvQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -728,7 +728,7 @@
 		</data>
 		<key>assets/lang/main-vi.json</key>
 		<data>
-		RF8nyP1GkJKWmOqM8FfkYVORNa0=
+		CO3pG21/abKzV+OYUR/6rdSecUk=
 		</data>
 		<key>assets/lang/main-zhCN.json</key>
 		<data>
@@ -740,7 +740,7 @@
 		</data>
 		<key>assets/lang/main.json</key>
 		<data>
-		aacoqbhlFJzKcynz6ET82gdkslA=
+		D5qsmpR/86yREpfG6x90RhXaS4c=
 		</data>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
 		<data>
@@ -764,7 +764,7 @@
 		</data>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<data>
-		uiwE5h2NDFNYWmbHFVfT2d+zZF0=
+		i01dGVPwHm/9xWlRWJf3q2Ed6HE=
 		</data>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
 		<data>
@@ -796,11 +796,11 @@
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		SWjRyPx9rZ2GngvIdmzmDYpy8n0=
+		eol0Bh4PNaBb4lBXllwlKMzSPI0=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		gxtKS058AVduao3Qw5CG9qAMRHo=
+		a5y2yfYhHAJGrQOPJANtSmlIn/Q=
 		</data>
 		<key>assets/react/features/participants-pane/theme.json</key>
 		<data>
@@ -836,7 +836,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		5dkBkIUFlUkc7kozX0LG060MD0A=
+		mcWDcbKI4rBntJ6tnZlZ6HRLA84=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1557,11 +1557,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x9fClS3hjZ0ZNLmvp7xLD2vuh6Q=
+			6jdE17xBDphsgsUbXbXCu2/LmvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C8TqzCsRcBrpFWtzIeXTtD6rLfed8jFcmJt+b3E9fDk=
+			RYo6Tvfsivt3iDCGVqAbDutV0oKmtFhfgW1TNVOfEg4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -1590,11 +1590,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x9fClS3hjZ0ZNLmvp7xLD2vuh6Q=
+			6jdE17xBDphsgsUbXbXCu2/LmvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C8TqzCsRcBrpFWtzIeXTtD6rLfed8jFcmJt+b3E9fDk=
+			RYo6Tvfsivt3iDCGVqAbDutV0oKmtFhfgW1TNVOfEg4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2393,11 +2393,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RF8nyP1GkJKWmOqM8FfkYVORNa0=
+			CO3pG21/abKzV+OYUR/6rdSecUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0p8ocgddw5ifhOOZ2Z4dCr5+l4m7jMIHkiupfvZIX8=
+			LXz3dXUY7xHEV6sQMg+0jaxkXXtN4OEIf1g/tRRrTb8=
 			</data>
 		</dict>
 		<key>assets/lang/main-zhCN.json</key>
@@ -2426,11 +2426,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aacoqbhlFJzKcynz6ET82gdkslA=
+			D5qsmpR/86yREpfG6x90RhXaS4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			vyic3F/oswCilILY8K8Jfpda2TuUHArjcjLVfJ4qmtI=
+			qbqh59EZWOZjUd1h44M24Nuxj0H/wp8DA0uS3XxHtyk=
 			</data>
 		</dict>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
@@ -2492,11 +2492,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uiwE5h2NDFNYWmbHFVfT2d+zZF0=
+			i01dGVPwHm/9xWlRWJf3q2Ed6HE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CWoTlhsJUpRkPqm5Y75NEgRY7HD35y3BXu9EErs3jBE=
+			DkenzAeDVr6a1AuBzi31gKYiBl+/ASvKuF1zaET+O5U=
 			</data>
 		</dict>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
@@ -2580,22 +2580,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SWjRyPx9rZ2GngvIdmzmDYpy8n0=
+			eol0Bh4PNaBb4lBXllwlKMzSPI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QZysxzMXSH6k5QQGswS0qa4Ai7V+MXH2+4Xtav3WM0E=
+			HF+urAWy7oRHIi1r22raS7Yt9s9qNgZQOzqN5EQlFLs=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gxtKS058AVduao3Qw5CG9qAMRHo=
+			a5y2yfYhHAJGrQOPJANtSmlIn/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			e4AtEAj33jBitAw1CV+E3I1SKk9KleRtZHB+IROhaJE=
+			XLF1s7dGALi/zKyMxwwHHbJxUFAbzctAMac8VYUTHsI=
 			</data>
 		</dict>
 		<key>assets/react/features/participants-pane/theme.json</key>
@@ -2690,11 +2690,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dkBkIUFlUkc7kozX0LG060MD0A=
+			mcWDcbKI4rBntJ6tnZlZ6HRLA84=
 			</data>
 			<key>hash2</key>
 			<data>
-			C4LkuSljC4NKocdr2MyhTy7qcy1xizWjG64p8bGSLRs=
+			H2ptGnSKCDmBZp93gX1DODpxcov4vY6bFiCdoFbdVpI=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
