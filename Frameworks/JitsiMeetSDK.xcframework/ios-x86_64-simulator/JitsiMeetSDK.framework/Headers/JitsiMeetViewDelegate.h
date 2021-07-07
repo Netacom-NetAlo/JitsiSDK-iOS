@@ -111,4 +111,11 @@
  */
 - (void)videoMutedChanged:(NSDictionary *)data;
 
+/**
+ * Called when invite new friend.
+ *
+ * The `data` dictionary contains a `userId` key.
+ */
+- (void)inviteFriend:(NSDictionary *)data;
+
 @end

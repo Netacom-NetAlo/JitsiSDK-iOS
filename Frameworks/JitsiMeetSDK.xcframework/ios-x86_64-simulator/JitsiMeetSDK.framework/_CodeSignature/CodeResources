@@ -400,7 +400,7 @@
 		</data>
 		<key>Headers/JitsiMeetUserInfo.h</key>
 		<data>
-		l/eHx4W3vgI6imBp6IMZlDS2fgg=
+		iw5utuMu7kPpTAK34FCT0bHnUa8=
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
@@ -408,7 +408,7 @@
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		H25DCSaQZKxSGemj1dDXm4iY/Hg=
+		DlkxQmTVjh8j9bxMyX28KNhRdZA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1502,11 +1502,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l/eHx4W3vgI6imBp6IMZlDS2fgg=
+			iw5utuMu7kPpTAK34FCT0bHnUa8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XoAOAsaw83TLLe33OqYzna/Db5jY3aZilQltR4dG6pw=
+			4nECT7EfMhvK+ahHwUaNe4YHh+L3lQWl3sM1YkoXplo=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetView.h</key>
@@ -1524,11 +1524,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H25DCSaQZKxSGemj1dDXm4iY/Hg=
+			DlkxQmTVjh8j9bxMyX28KNhRdZA=
 			</data>
 			<key>hash2</key>
 			<data>
-			fC4HfKEyvrRG3v80fTuzLQ20dJMnF7MmFA00wPHGK4A=
+			e4JUfGdHGO5lZXIVwK65tHBXMUorwFBXNBtouTiN+/8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
