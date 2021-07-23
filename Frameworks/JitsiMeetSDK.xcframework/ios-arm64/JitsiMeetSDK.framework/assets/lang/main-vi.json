@@ -256,7 +256,10 @@
         "WaitForHostMsgWOk": "Cuộc họp <b>{{room}}</b> chưa được khởi tạo. Nếu bạn là chủ nghị vui lòng nhấn OK để xác thực. Nếu không, vui lòng đợi chủ nghị.",
         "WaitingForHost": "Đang đợi chủ nghị …",
         "Yes": "Có",
-        "yourEntireScreen": "Toàn bộ màn hình của bạn"
+        "yourEntireScreen": "Toàn bộ màn hình của bạn",
+        "addMember": "Thêm thành viên",
+        "findContact": "Tìm kiếm liên hệ",
+        "invite": "Mời"
     },
     "dialOut": {
         "statusMessage": "hiện đang {{status}}"
@@ -557,6 +560,8 @@
             "moreActions": "Mở/Đóng Thêm hành động",
             "moreActionsMenu": "Menu Thêm hành động",
             "mute": "Mở/Đóng Tắt tiếng",
+            "muteEveryone": "Tắt tiếng mọi người",
+            "muteEveryonesVideo": "Tắt camera mọi người",
             "pip": "Mở/Đóng chế độ Hình-trong-Hình",
             "profile": "Chỉnh sửa hồ sơ cá nhân",
             "raiseHand": "Mở/Đóng Giơ tay",
@@ -596,6 +601,8 @@
         "lowerYourHand": "Hạ tay",
         "moreActions": "Thêm hành động",
         "mute": "Tắt tiếng / Bật tiếng",
+        "muteEveryone": "Tắt tiếng mọi người",
+        "muteEveryonesVideo": "Tắt camera mọi người",
         "openChat": "Mở Chat",
         "pip": "Vào chế độ Ảnh-trong-Ảnh",
         "profile": "Chỉnh sửa hồ sơ cá nhân",

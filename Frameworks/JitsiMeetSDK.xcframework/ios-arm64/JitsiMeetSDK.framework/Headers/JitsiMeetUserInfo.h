@@ -31,8 +31,17 @@
  */
 @property (nonatomic, copy, nullable) NSURL *avatar;
 
+@property (nonatomic, copy, nullable) NSString *naToken;
+
+@property (nonatomic, copy, nullable) NSURL *naCDNEndpoint;
+
+@property (nonatomic, copy, nullable) NSURL *naAPIEndpoint;
+
 - (instancetype _Nullable)initWithDisplayName:(NSString *_Nullable)displayName
                                      andEmail:(NSString *_Nullable)email
-                                    andAvatar:(NSURL *_Nullable) avatar;
+                                    andAvatar:(NSURL *_Nullable) avatar
+                                    naToken:(NSString *_Nullable) token
+                                    naCDNEndpoint:(NSURL *_Nullable) cdn
+                                    naAPIEndpoint:(NSURL *_Nullable) api;
 
 @end
