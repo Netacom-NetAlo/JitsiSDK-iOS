@@ -198,6 +198,14 @@
         "muteParticipantButton": "Tắt tiếng",
         "muteParticipantDialog": "Bạn muốn tắt tiếng của người này? Bạn sẽ không thể bật lại tiếng, nhưng họ có thể tự bật lại tiếng bất cứ lúc nào.",
         "muteParticipantTitle": "Tắt tiếng của người tham dự này?",
+
+        "muteEveryoneElsesVideoDialog": "Sau khi máy ảnh tắt, bạn sẽ không thể bật lại nhưng người khác vẫn có thể bật lại bất kỳ lúc nào.",
+        "muteEveryoneElsesVideoTitle": "Tắt máy ảnh của mọi người ngoại trừ bạn?",
+        "muteEveryonesVideoDialogOk": "Tắt",
+
+        "muteEveryoneElseDialog": "Sau khi tắt tiếng, bạn sẽ không thể bật tiếng nhưng người khác vẫn có thể tự bật tiếng bất cứ lúc nào.",
+        "muteEveryoneElseTitle": "Tắt tiếng tất cả mọi người ngoại trừ bạn?",
+
         "Ok": "Được",
         "passwordLabel": "",
         "passwordNotSupported": "Phòng họp không hỗ trợ khóa bằng mật khẩu.",
