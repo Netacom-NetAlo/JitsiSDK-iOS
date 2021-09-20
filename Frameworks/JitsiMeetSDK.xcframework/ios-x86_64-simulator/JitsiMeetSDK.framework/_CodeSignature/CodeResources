@@ -8,6 +8,10 @@
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
+		<key>ComodoRsaDomainValidationCA.der</key>
+		<data>
+		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
 		BfmsbcfBh93cy6vWTriZJESBAgw=
@@ -376,7 +380,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		0UJS241dmxH44uMyAhhP2LSn0ug=
+		OKVZX3wi0UMjvFuwN3sGY0WeS2s=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -384,7 +388,7 @@
 		</data>
 		<key>Headers/JitsiMeetConferenceOptions.h</key>
 		<data>
-		aqjz1jSdwjYn0Q5IAWThn2HJ5D0=
+		ZI7GjJDKbLbs8iEV8kgUscAGJJs=
 		</data>
 		<key>Headers/JitsiMeetLogger.h</key>
 		<data>
@@ -412,7 +416,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CtLgv9td4aKZbekFbzwzuXGOQBc=
+		Py8SdDRdahAwiS9qe7luHAqFu9Q=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -424,7 +428,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KWAb2I49DTzxftfHlXXBZVCvwpE=
+		UbuBrET4uFuw3BKKk3GR1nv+BtM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -436,7 +440,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		KWAb2I49DTzxftfHlXXBZVCvwpE=
+		UbuBrET4uFuw3BKKk3GR1nv+BtM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -728,7 +732,7 @@
 		</data>
 		<key>assets/lang/main-vi.json</key>
 		<data>
-		CO3pG21/abKzV+OYUR/6rdSecUk=
+		I+XVxGIsJtODkEvU9ntJGhJiuqg=
 		</data>
 		<key>assets/lang/main-zhCN.json</key>
 		<data>
@@ -764,7 +768,7 @@
 		</data>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<data>
-		xhlUs6rUvt6TTpf//SOlkHnHpHw=
+		3kI+4ZXoG9qGnCpvQoh1Wp0g30I=
 		</data>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
 		<data>
@@ -788,7 +792,7 @@
 		</data>
 		<key>assets/node_modules/i18n-iso-countries/langs/en.json</key>
 		<data>
-		5qfLcRVjBK7wxO7X+UHdykzXlxU=
+		w760vysnt467eIuEfd3lVS3A71M=
 		</data>
 		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
 		<data>
@@ -796,15 +800,23 @@
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		ErNgPtlIx8xdgm8QfOKWPXodH+E=
+		MJv/DuJ3SfG3U0LHVQ1UXgLhb3U=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		c6VAkUnzQA+cWc0yKjHf5548TcM=
+		DMXBAo98x9TxVo4ksNulQfokLaM=
 		</data>
 		<key>assets/react/features/participants-pane/theme.json</key>
 		<data>
 		Ca3L1rTzfgiJh42YVby2k0tGY5U=
+		</data>
+		<key>e2eeOff.mp3</key>
+		<data>
+		2lM3jRGx4vcxooNQDGUBAk6pq8U=
+		</data>
+		<key>e2eeOn.mp3</key>
+		<data>
+		QeKavCEHdxmFCwmCClL9ESSwH0Y=
 		</data>
 		<key>image-resize@2x.png</key>
 		<data>
@@ -822,6 +834,10 @@
 		<data>
 		x5acwPpL4xsKYcjxtFLZjCqj04A=
 		</data>
+		<key>knock.mp3</key>
+		<data>
+		CFeyhEw/bbxWz1b37NIWDziITZI=
+		</data>
 		<key>left.wav</key>
 		<data>
 		eIQKBt0QIYvkw8/8cTsN7cE3btw=
@@ -836,7 +852,15 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		HRnwhXQv/sypz7ylupEIf2Oul0g=
+		cEoiml1hhiC5f6Kbw4JDrp+k1FA=
+		</data>
+		<key>noAudioSignal.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
+		</data>
+		<key>noisyAudioInput.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -845,6 +869,34 @@
 		<key>outgoingStart.wav</key>
 		<data>
 		P5BB9NApgN+OrOs/iOq9RDqR6TM=
+		</data>
+		<key>reactions-laughter.mp3</key>
+		<data>
+		GsltbWhpAvOnNocr9qe+Ndmoo78=
+		</data>
+		<key>reactions–applause.mp3</key>
+		<data>
+		pU11F8OUMsqMoZiggl/6mo8OuTY=
+		</data>
+		<key>reactions–boo.mp3</key>
+		<data>
+		Kxfw3HZrfhubWnpeSIWayb7xatU=
+		</data>
+		<key>reactions–crickets.mp3</key>
+		<data>
+		Bp63PjQLvViuIMEeyOPTz2Ag5z4=
+		</data>
+		<key>reactions–raised-hand.mp3</key>
+		<data>
+		Kj37WWDHEpCv1rgVlJINycn2oXo=
+		</data>
+		<key>reactions–surprise.mp3</key>
+		<data>
+		BVc3QdLsD2G3iOfGkxzUT1LL/BU=
+		</data>
+		<key>reactions–thumbs-up.mp3</key>
+		<data>
+		a0uzLf7vzAJ/YANuzYLJ8bNvMrA=
 		</data>
 		<key>recordingOff.mp3</key>
 		<data>
@@ -858,6 +910,18 @@
 		<data>
 		m4GVNFynKDfhVppM1vc7OfIwOSQ=
 		</data>
+		<key>ring.ogg</key>
+		<data>
+		vp7BdLKgfQ8UDC6FQyaWi5XDfHY=
+		</data>
+		<key>ring.wav</key>
+		<data>
+		ht5IyzdZ+KTa5cPdFtnffFx94sU=
+		</data>
+		<key>talkWhileMuted.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -870,6 +934,17 @@
 			<key>hash2</key>
 			<data>
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
+			</data>
+		</dict>
+		<key>ComodoRsaDomainValidationCA.der</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Info.plist</key>
@@ -1436,11 +1511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0UJS241dmxH44uMyAhhP2LSn0ug=
+			OKVZX3wi0UMjvFuwN3sGY0WeS2s=
 			</data>
 			<key>hash2</key>
 			<data>
-			VV8S7sJlTlWPxu0CMH2Fb6fwiU++ZFpcZA1Lm3mgjaU=
+			thL3XyuDZAi+JpbCtvZxiX3OZ0lyOQRbthOLaxN1NHA=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1458,11 +1533,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aqjz1jSdwjYn0Q5IAWThn2HJ5D0=
+			ZI7GjJDKbLbs8iEV8kgUscAGJJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			BUX8eHVAxs16zs1Dv6s0vPwHE5THTnbkScbMNggrWMk=
+			6+b0G0zNT6RkVG1zWTNzuSQ9qejIjleqtfzyx/A+8aQ=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetLogger.h</key>
@@ -1557,11 +1632,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KWAb2I49DTzxftfHlXXBZVCvwpE=
+			UbuBrET4uFuw3BKKk3GR1nv+BtM=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ze4imEfONaEnzNPMYYx1/vk3UsrBNCCPfSUZ9+8syw=
+			5BkYf8211l+lYjA4GA9WUUZEM+aoQ+lXQD4zdMG+QOI=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -1590,11 +1665,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KWAb2I49DTzxftfHlXXBZVCvwpE=
+			UbuBrET4uFuw3BKKk3GR1nv+BtM=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ze4imEfONaEnzNPMYYx1/vk3UsrBNCCPfSUZ9+8syw=
+			5BkYf8211l+lYjA4GA9WUUZEM+aoQ+lXQD4zdMG+QOI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2393,11 +2468,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CO3pG21/abKzV+OYUR/6rdSecUk=
+			I+XVxGIsJtODkEvU9ntJGhJiuqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			LXz3dXUY7xHEV6sQMg+0jaxkXXtN4OEIf1g/tRRrTb8=
+			Yy9AEr6Er8SMg5j51SL3rNFAvBavon3/0CWAdSpIPI4=
 			</data>
 		</dict>
 		<key>assets/lang/main-zhCN.json</key>
@@ -2492,11 +2567,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xhlUs6rUvt6TTpf//SOlkHnHpHw=
+			3kI+4ZXoG9qGnCpvQoh1Wp0g30I=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGkIk7wTbc5RWOYwfbMmW6mG0c2gfmjQffT8q0ygXH8=
+			sYlh5Bwna+595s5uF40PDq/3lfyQ/LqCOrqqHFznqoY=
 			</data>
 		</dict>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
@@ -2558,11 +2633,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5qfLcRVjBK7wxO7X+UHdykzXlxU=
+			w760vysnt467eIuEfd3lVS3A71M=
 			</data>
 			<key>hash2</key>
 			<data>
-			fg3QPPquCWdnFxFy0a6voO5KYB5MnJPWlOtZ4SoFCHY=
+			n1v17/H2Nix1KeQcKbeRrYaLZeMd5FQ9OHBLzpcSEkI=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
@@ -2580,22 +2655,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ErNgPtlIx8xdgm8QfOKWPXodH+E=
+			MJv/DuJ3SfG3U0LHVQ1UXgLhb3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			K4QKginDykzInfKX2vTNkhoyszdgrVWS7gtsaCeyP3w=
+			Up4SfG7wH8I3KzCtdwSwiRtsRfZVnuE7PoUgm/RhRSs=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6VAkUnzQA+cWc0yKjHf5548TcM=
+			DMXBAo98x9TxVo4ksNulQfokLaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HBKScNVmEfzwou+m9naCZl+IWenquvEEsOA6L3zfx28=
+			HgD6qwvdDfXOx9QGBA8ePMVdSWrWWaX/jmoLzttd/ew=
 			</data>
 		</dict>
 		<key>assets/react/features/participants-pane/theme.json</key>
@@ -2607,6 +2682,28 @@
 			<key>hash2</key>
 			<data>
 			O583CB+M5VSB1ett2IaUH/HDYEtZiY5U6ZGBTaah24c=
+			</data>
+		</dict>
+		<key>e2eeOff.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2lM3jRGx4vcxooNQDGUBAk6pq8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			stfPR0qy5q70EccyCbDurqJZYopvn8BX2fipzA6rYlg=
+			</data>
+		</dict>
+		<key>e2eeOn.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QeKavCEHdxmFCwmCClL9ESSwH0Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			sKuQ2khaRaxw749975R+kWQGMFJKckx6YDdj1BKrDdY=
 			</data>
 		</dict>
 		<key>image-resize@2x.png</key>
@@ -2653,6 +2750,17 @@
 			+3m6WsQW8WxE1tirOR2bTco1R1pwCCuGAEZeQsYeCMU=
 			</data>
 		</dict>
+		<key>knock.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CFeyhEw/bbxWz1b37NIWDziITZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			92l1sQRPZ7ZXilHf8K7TPjfrJWQ9HJyw4+eUnczZR7c=
+			</data>
+		</dict>
 		<key>left.wav</key>
 		<dict>
 			<key>hash</key>
@@ -2690,11 +2798,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HRnwhXQv/sypz7ylupEIf2Oul0g=
+			cEoiml1hhiC5f6Kbw4JDrp+k1FA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tVezC94Wmta8h+cQr5ES4UjuNQmd6tsefREp5oiqBlQ=
+			K+BFKl5pN/Ooq2f+TkPCI1JdYVx8Nt5GWp82DRT6eQ4=
+			</data>
+		</dict>
+		<key>noAudioSignal.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
+			</data>
+		</dict>
+		<key>noisyAudioInput.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
@@ -2717,6 +2847,83 @@
 			<key>hash2</key>
 			<data>
 			Ayr3NByzTZzhI3fRukuINKRNm2VGy/BoXbi5zY7DJw8=
+			</data>
+		</dict>
+		<key>reactions-laughter.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GsltbWhpAvOnNocr9qe+Ndmoo78=
+			</data>
+			<key>hash2</key>
+			<data>
+			+YtoSO/Ko6ZVrQD4TfW7YLfcbwxMz/Yz1/Lja2jitho=
+			</data>
+		</dict>
+		<key>reactions–applause.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pU11F8OUMsqMoZiggl/6mo8OuTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			lhH9q83RdKeoVN785tbMBWHXn+xbSsmJHgn4hTjPgcU=
+			</data>
+		</dict>
+		<key>reactions–boo.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kxfw3HZrfhubWnpeSIWayb7xatU=
+			</data>
+			<key>hash2</key>
+			<data>
+			SMc5sXi77SoUqTXBzm06R2r6mgZUpsPEpEzO++d88q0=
+			</data>
+		</dict>
+		<key>reactions–crickets.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bp63PjQLvViuIMEeyOPTz2Ag5z4=
+			</data>
+			<key>hash2</key>
+			<data>
+			XEpozmL9WveQdoTxB0pEhUkApF+iVVKW5UFJTvKIaq0=
+			</data>
+		</dict>
+		<key>reactions–raised-hand.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kj37WWDHEpCv1rgVlJINycn2oXo=
+			</data>
+			<key>hash2</key>
+			<data>
+			+DLpMqyJPqdY+83RQe5z6KI5+sil+fY7F43uj47kbaE=
+			</data>
+		</dict>
+		<key>reactions–surprise.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BVc3QdLsD2G3iOfGkxzUT1LL/BU=
+			</data>
+			<key>hash2</key>
+			<data>
+			7xD6bluN7ZD+XZm/tisI2S1qGFO0vxPzIumdJJNleR4=
+			</data>
+		</dict>
+		<key>reactions–thumbs-up.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a0uzLf7vzAJ/YANuzYLJ8bNvMrA=
+			</data>
+			<key>hash2</key>
+			<data>
+			yomCL3/U78obOTLaoSwPfBP8oIjGvmkbzKwEnkRHv10=
 			</data>
 		</dict>
 		<key>recordingOff.mp3</key>
@@ -2750,6 +2957,39 @@
 			<key>hash2</key>
 			<data>
 			mr6fLyl8mg0jSEaG+DF3uM4G22CuPMP7zWD7amaUNVo=
+			</data>
+		</dict>
+		<key>ring.ogg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vp7BdLKgfQ8UDC6FQyaWi5XDfHY=
+			</data>
+			<key>hash2</key>
+			<data>
+			onuFWdYmgDNb00j2Yty0UkTZQYkPKgEis3XDMI9HEFo=
+			</data>
+		</dict>
+		<key>ring.wav</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ht5IyzdZ+KTa5cPdFtnffFx94sU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yW6zgmHQlezTx/QyC/oXW9yn3Zg2GxuqPGBZMwmTEtc=
+			</data>
+		</dict>
+		<key>talkWhileMuted.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
 			</data>
 		</dict>
 	</dict>
