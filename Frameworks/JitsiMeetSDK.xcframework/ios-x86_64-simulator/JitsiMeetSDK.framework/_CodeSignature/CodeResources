@@ -8,6 +8,10 @@
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
+		<key>ComodoRsaDomainValidationCA.der</key>
+		<data>
+		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
 		BfmsbcfBh93cy6vWTriZJESBAgw=
@@ -376,7 +380,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		0UJS241dmxH44uMyAhhP2LSn0ug=
+		OKVZX3wi0UMjvFuwN3sGY0WeS2s=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -384,7 +388,7 @@
 		</data>
 		<key>Headers/JitsiMeetConferenceOptions.h</key>
 		<data>
-		aqjz1jSdwjYn0Q5IAWThn2HJ5D0=
+		ZI7GjJDKbLbs8iEV8kgUscAGJJs=
 		</data>
 		<key>Headers/JitsiMeetLogger.h</key>
 		<data>
@@ -392,7 +396,7 @@
 		</data>
 		<key>Headers/JitsiMeetSDK-Swift.h</key>
 		<data>
-		GSHrNbnNKaYG2In1IXbXDvKZaYA=
+		lzIfxlz76kGOlwyfbK0rzIo5r+E=
 		</data>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<data>
@@ -412,31 +416,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CtLgv9td4aKZbekFbzwzuXGOQBc=
+		AtKpOl1DoKBU7gysvd0hh4aCL8E=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		6jSno15I2pRuNgteSshh6dJKJtU=
+		LGc8QXp20xqhM143hhqracKh9o0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Hqaco41V1hQms6JI/RiWmJn4b8I=
+		/EdE6LiN3qciDid9h+ONokB2zR8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KWAb2I49DTzxftfHlXXBZVCvwpE=
+		nc4KrdT3EyqnK0ve1ErL/ek70N4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		6jSno15I2pRuNgteSshh6dJKJtU=
+		LGc8QXp20xqhM143hhqracKh9o0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Hqaco41V1hQms6JI/RiWmJn4b8I=
+		/EdE6LiN3qciDid9h+ONokB2zR8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		KWAb2I49DTzxftfHlXXBZVCvwpE=
+		nc4KrdT3EyqnK0ve1ErL/ek70N4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -728,7 +732,7 @@
 		</data>
 		<key>assets/lang/main-vi.json</key>
 		<data>
-		CO3pG21/abKzV+OYUR/6rdSecUk=
+		I+XVxGIsJtODkEvU9ntJGhJiuqg=
 		</data>
 		<key>assets/lang/main-zhCN.json</key>
 		<data>
@@ -748,23 +752,11 @@
 		</data>
 		<key>assets/node_modules/css-tree/data/patch.json</key>
 		<data>
-		BjIznFW4G1LGhyMeThX2O9uaUWo=
-		</data>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/at-rules.json</key>
-		<data>
-		9gbDXraF0AQo4SKRguRj6p4fX6w=
-		</data>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/properties.json</key>
-		<data>
-		smA7sKdxB9fudDR5Avy4E5ZuXF8=
-		</data>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/syntaxes.json</key>
-		<data>
-		E6Ppa9cO+gWA3uoT06d4sFIs0KU=
+		9HKJd19HnSHcbyvsazyKc0XPS5w=
 		</data>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<data>
-		xhlUs6rUvt6TTpf//SOlkHnHpHw=
+		/12gLX5bmIp91LPMc7AT/zUeJe0=
 		</data>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
 		<data>
@@ -772,23 +764,35 @@
 		</data>
 		<key>assets/node_modules/entities/lib/maps/decode.json</key>
 		<data>
-		+LtgnExfqrVb794ZjVsyLPOF94k=
+		uKb5oGUuVA3jjn4Dj/MyXC6v0ko=
 		</data>
 		<key>assets/node_modules/entities/lib/maps/entities.json</key>
 		<data>
-		nJuM2FOvnF16uoBR7CbmGoMDFQ8=
+		TgYz+fZX4NQuqSiH0HfGb+OucZc=
 		</data>
 		<key>assets/node_modules/entities/lib/maps/legacy.json</key>
 		<data>
-		Um3MVMTtwUsiBOVJOLFOQwfyW5s=
+		rfbaPvNXCk0QBCf+nhm0eXXuFS8=
 		</data>
 		<key>assets/node_modules/entities/lib/maps/xml.json</key>
 		<data>
-		pbWR5Bqv/JI6KGeuvSOqpaNGoG4=
+		WsypjZN+gK+GDl6Mo9kVHhVfLvQ=
 		</data>
 		<key>assets/node_modules/i18n-iso-countries/langs/en.json</key>
 		<data>
-		5qfLcRVjBK7wxO7X+UHdykzXlxU=
+		w760vysnt467eIuEfd3lVS3A71M=
+		</data>
+		<key>assets/node_modules/mdn-data/css/at-rules.json</key>
+		<data>
+		9gbDXraF0AQo4SKRguRj6p4fX6w=
+		</data>
+		<key>assets/node_modules/mdn-data/css/properties.json</key>
+		<data>
+		smA7sKdxB9fudDR5Avy4E5ZuXF8=
+		</data>
+		<key>assets/node_modules/mdn-data/css/syntaxes.json</key>
+		<data>
+		E6Ppa9cO+gWA3uoT06d4sFIs0KU=
 		</data>
 		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
 		<data>
@@ -796,15 +800,27 @@
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		ErNgPtlIx8xdgm8QfOKWPXodH+E=
+		gq6nMDkoQcqWQ7x0DELFOW36VrA=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		c6VAkUnzQA+cWc0yKjHf5548TcM=
+		zY/D+U6rvIV1u3N3x2T3rd8und0=
+		</data>
+		<key>assets/node_modules/tlds/index.json</key>
+		<data>
+		BOH6MvvLhZbPD76WgiRBJb281YA=
 		</data>
 		<key>assets/react/features/participants-pane/theme.json</key>
 		<data>
 		Ca3L1rTzfgiJh42YVby2k0tGY5U=
+		</data>
+		<key>e2eeOff.mp3</key>
+		<data>
+		2lM3jRGx4vcxooNQDGUBAk6pq8U=
+		</data>
+		<key>e2eeOn.mp3</key>
+		<data>
+		QeKavCEHdxmFCwmCClL9ESSwH0Y=
 		</data>
 		<key>image-resize@2x.png</key>
 		<data>
@@ -822,6 +838,10 @@
 		<data>
 		x5acwPpL4xsKYcjxtFLZjCqj04A=
 		</data>
+		<key>knock.mp3</key>
+		<data>
+		CFeyhEw/bbxWz1b37NIWDziITZI=
+		</data>
 		<key>left.wav</key>
 		<data>
 		eIQKBt0QIYvkw8/8cTsN7cE3btw=
@@ -836,7 +856,15 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		HRnwhXQv/sypz7ylupEIf2Oul0g=
+		npkLDuBWd0d68W6xwdt6fzk43ek=
+		</data>
+		<key>noAudioSignal.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
+		</data>
+		<key>noisyAudioInput.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -845,6 +873,34 @@
 		<key>outgoingStart.wav</key>
 		<data>
 		P5BB9NApgN+OrOs/iOq9RDqR6TM=
+		</data>
+		<key>reactions-laughter.mp3</key>
+		<data>
+		GsltbWhpAvOnNocr9qe+Ndmoo78=
+		</data>
+		<key>reactions–applause.mp3</key>
+		<data>
+		pU11F8OUMsqMoZiggl/6mo8OuTY=
+		</data>
+		<key>reactions–boo.mp3</key>
+		<data>
+		Kxfw3HZrfhubWnpeSIWayb7xatU=
+		</data>
+		<key>reactions–crickets.mp3</key>
+		<data>
+		Bp63PjQLvViuIMEeyOPTz2Ag5z4=
+		</data>
+		<key>reactions–raised-hand.mp3</key>
+		<data>
+		Kj37WWDHEpCv1rgVlJINycn2oXo=
+		</data>
+		<key>reactions–surprise.mp3</key>
+		<data>
+		BVc3QdLsD2G3iOfGkxzUT1LL/BU=
+		</data>
+		<key>reactions–thumbs-up.mp3</key>
+		<data>
+		a0uzLf7vzAJ/YANuzYLJ8bNvMrA=
 		</data>
 		<key>recordingOff.mp3</key>
 		<data>
@@ -858,6 +914,18 @@
 		<data>
 		m4GVNFynKDfhVppM1vc7OfIwOSQ=
 		</data>
+		<key>ring.ogg</key>
+		<data>
+		vp7BdLKgfQ8UDC6FQyaWi5XDfHY=
+		</data>
+		<key>ring.wav</key>
+		<data>
+		ht5IyzdZ+KTa5cPdFtnffFx94sU=
+		</data>
+		<key>talkWhileMuted.mp3</key>
+		<data>
+		7mOE09NxMUJIwlzOxiz5VZxqGW4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -870,6 +938,17 @@
 			<key>hash2</key>
 			<data>
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
+			</data>
+		</dict>
+		<key>ComodoRsaDomainValidationCA.der</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Info.plist</key>
@@ -1436,11 +1515,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0UJS241dmxH44uMyAhhP2LSn0ug=
+			OKVZX3wi0UMjvFuwN3sGY0WeS2s=
 			</data>
 			<key>hash2</key>
 			<data>
-			VV8S7sJlTlWPxu0CMH2Fb6fwiU++ZFpcZA1Lm3mgjaU=
+			thL3XyuDZAi+JpbCtvZxiX3OZ0lyOQRbthOLaxN1NHA=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1458,11 +1537,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aqjz1jSdwjYn0Q5IAWThn2HJ5D0=
+			ZI7GjJDKbLbs8iEV8kgUscAGJJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			BUX8eHVAxs16zs1Dv6s0vPwHE5THTnbkScbMNggrWMk=
+			6+b0G0zNT6RkVG1zWTNzuSQ9qejIjleqtfzyx/A+8aQ=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetLogger.h</key>
@@ -1480,11 +1559,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GSHrNbnNKaYG2In1IXbXDvKZaYA=
+			lzIfxlz76kGOlwyfbK0rzIo5r+E=
 			</data>
 			<key>hash2</key>
 			<data>
-			5rqdmbI9MjfByDovERdeLKj7f4l8DxjatOkzEwdlT9Q=
+			PmIE2dsgA8pq7NgyzQLJ6ud8H0qlmgsabT3DAH01O6w=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetSDK.h</key>
@@ -1535,66 +1614,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6jSno15I2pRuNgteSshh6dJKJtU=
+			LGc8QXp20xqhM143hhqracKh9o0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uwdEUUt+tZ3XUen9L/mAGw65e9Uzbzd674wYAucEhLk=
+			/2G3KByBtGX7TmJ+J7KMUEjgGh+QgHfAvqm3z58uvNg=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Hqaco41V1hQms6JI/RiWmJn4b8I=
+			/EdE6LiN3qciDid9h+ONokB2zR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			MgXJessVtoPKS61O4ocw+jy3dxwCia7OF9mE2jTjU2A=
+			NkIKb6Dq+MeTJ1KvXVM4KqjE25Zdg3LdpaQnCxOGikc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KWAb2I49DTzxftfHlXXBZVCvwpE=
+			nc4KrdT3EyqnK0ve1ErL/ek70N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ze4imEfONaEnzNPMYYx1/vk3UsrBNCCPfSUZ9+8syw=
+			kTMzZ7wgcNzIZIdVxUsB1OqewVAe+jS70cXA/PzCY00=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6jSno15I2pRuNgteSshh6dJKJtU=
+			LGc8QXp20xqhM143hhqracKh9o0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uwdEUUt+tZ3XUen9L/mAGw65e9Uzbzd674wYAucEhLk=
+			/2G3KByBtGX7TmJ+J7KMUEjgGh+QgHfAvqm3z58uvNg=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Hqaco41V1hQms6JI/RiWmJn4b8I=
+			/EdE6LiN3qciDid9h+ONokB2zR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			MgXJessVtoPKS61O4ocw+jy3dxwCia7OF9mE2jTjU2A=
+			NkIKb6Dq+MeTJ1KvXVM4KqjE25Zdg3LdpaQnCxOGikc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KWAb2I49DTzxftfHlXXBZVCvwpE=
+			nc4KrdT3EyqnK0ve1ErL/ek70N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ze4imEfONaEnzNPMYYx1/vk3UsrBNCCPfSUZ9+8syw=
+			kTMzZ7wgcNzIZIdVxUsB1OqewVAe+jS70cXA/PzCY00=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2393,11 +2472,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CO3pG21/abKzV+OYUR/6rdSecUk=
+			I+XVxGIsJtODkEvU9ntJGhJiuqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			LXz3dXUY7xHEV6sQMg+0jaxkXXtN4OEIf1g/tRRrTb8=
+			Yy9AEr6Er8SMg5j51SL3rNFAvBavon3/0CWAdSpIPI4=
 			</data>
 		</dict>
 		<key>assets/lang/main-zhCN.json</key>
@@ -2448,55 +2527,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BjIznFW4G1LGhyMeThX2O9uaUWo=
+			9HKJd19HnSHcbyvsazyKc0XPS5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			XSY9Ulb/4D/tUHgjwdYvJSoQfZuG+UUcGSm7Xr802Ow=
-			</data>
-		</dict>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/at-rules.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9gbDXraF0AQo4SKRguRj6p4fX6w=
-			</data>
-			<key>hash2</key>
-			<data>
-			7wkmB05f2WevsbUWKEfa6c86qw9ZkoTDzNfjEEpCs3s=
-			</data>
-		</dict>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/properties.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			smA7sKdxB9fudDR5Avy4E5ZuXF8=
-			</data>
-			<key>hash2</key>
-			<data>
-			5wRE3u6vAxVHZb+IuNp8psA+OflUqFQPa6mCsC/KzQw=
-			</data>
-		</dict>
-		<key>assets/node_modules/css-tree/node_modules/mdn-data/css/syntaxes.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E6Ppa9cO+gWA3uoT06d4sFIs0KU=
-			</data>
-			<key>hash2</key>
-			<data>
-			FCK39JwcFjTQZPKHQlNjjJR6W5f/5IfA+u3pm0q7HXg=
+			SrWvHaVx190BeV27b0CRgprdQfPOzqR/1xKojBLHInY=
 			</data>
 		</dict>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xhlUs6rUvt6TTpf//SOlkHnHpHw=
+			/12gLX5bmIp91LPMc7AT/zUeJe0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGkIk7wTbc5RWOYwfbMmW6mG0c2gfmjQffT8q0ygXH8=
+			1/hL4qqfzjErpjlw7A7HZAAOYWzgrVWc8x+ifX3Hlpw=
 			</data>
 		</dict>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
@@ -2514,55 +2560,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+LtgnExfqrVb794ZjVsyLPOF94k=
+			uKb5oGUuVA3jjn4Dj/MyXC6v0ko=
 			</data>
 			<key>hash2</key>
 			<data>
-			hq9+KqWEqf8m05S8ha5HbnOw9Uh2UUzMs+ezsW10brs=
+			kWAva06kjgxOi73sWEjBoJbz0B8APF2psLHKGvcdj00=
 			</data>
 		</dict>
 		<key>assets/node_modules/entities/lib/maps/entities.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nJuM2FOvnF16uoBR7CbmGoMDFQ8=
+			TgYz+fZX4NQuqSiH0HfGb+OucZc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1o9pLgpYQ5nCADtGee8XjmjL51Swe46yQqY0w3V7WVU=
+			1D4EhKMCrBuEY2JQ/2XMc1gRtSv5lSWz0wqBt1Q2qag=
 			</data>
 		</dict>
 		<key>assets/node_modules/entities/lib/maps/legacy.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Um3MVMTtwUsiBOVJOLFOQwfyW5s=
+			rfbaPvNXCk0QBCf+nhm0eXXuFS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Lys5I8NkQx3eLTmBSlbSPZpWJYYJYe42rSsnNcHrKc=
+			jmU0tCrxHJI3VmWoYU0F99PAEYrWnyAZNncfNcjbRP8=
 			</data>
 		</dict>
 		<key>assets/node_modules/entities/lib/maps/xml.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pbWR5Bqv/JI6KGeuvSOqpaNGoG4=
+			WsypjZN+gK+GDl6Mo9kVHhVfLvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			IwhJjlevRGwvnDTl5xDxhAHVwNzgTKzYvCIepGQkzCo=
+			qAucgzExUjOet3RZsyooTTbrb9jKhIwMQshdJdKaYfA=
 			</data>
 		</dict>
 		<key>assets/node_modules/i18n-iso-countries/langs/en.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5qfLcRVjBK7wxO7X+UHdykzXlxU=
+			w760vysnt467eIuEfd3lVS3A71M=
 			</data>
 			<key>hash2</key>
 			<data>
-			fg3QPPquCWdnFxFy0a6voO5KYB5MnJPWlOtZ4SoFCHY=
+			n1v17/H2Nix1KeQcKbeRrYaLZeMd5FQ9OHBLzpcSEkI=
+			</data>
+		</dict>
+		<key>assets/node_modules/mdn-data/css/at-rules.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9gbDXraF0AQo4SKRguRj6p4fX6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			7wkmB05f2WevsbUWKEfa6c86qw9ZkoTDzNfjEEpCs3s=
+			</data>
+		</dict>
+		<key>assets/node_modules/mdn-data/css/properties.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			smA7sKdxB9fudDR5Avy4E5ZuXF8=
+			</data>
+			<key>hash2</key>
+			<data>
+			5wRE3u6vAxVHZb+IuNp8psA+OflUqFQPa6mCsC/KzQw=
+			</data>
+		</dict>
+		<key>assets/node_modules/mdn-data/css/syntaxes.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E6Ppa9cO+gWA3uoT06d4sFIs0KU=
+			</data>
+			<key>hash2</key>
+			<data>
+			FCK39JwcFjTQZPKHQlNjjJR6W5f/5IfA+u3pm0q7HXg=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
@@ -2580,22 +2659,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ErNgPtlIx8xdgm8QfOKWPXodH+E=
+			gq6nMDkoQcqWQ7x0DELFOW36VrA=
 			</data>
 			<key>hash2</key>
 			<data>
-			K4QKginDykzInfKX2vTNkhoyszdgrVWS7gtsaCeyP3w=
+			zsdlAZYrCemiTkg+flBA4PPgN5vMuJj2YlYgCEXWnTY=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6VAkUnzQA+cWc0yKjHf5548TcM=
+			zY/D+U6rvIV1u3N3x2T3rd8und0=
 			</data>
 			<key>hash2</key>
 			<data>
-			HBKScNVmEfzwou+m9naCZl+IWenquvEEsOA6L3zfx28=
+			M8ExMeAtYNSkp3ETReVbfvbAuWU0OKShPqpr0+Xkjd4=
+			</data>
+		</dict>
+		<key>assets/node_modules/tlds/index.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BOH6MvvLhZbPD76WgiRBJb281YA=
+			</data>
+			<key>hash2</key>
+			<data>
+			C86ulHhBMx4b3Op/qaRYyNp905KCV2V9T90q7/ms6PM=
 			</data>
 		</dict>
 		<key>assets/react/features/participants-pane/theme.json</key>
@@ -2607,6 +2697,28 @@
 			<key>hash2</key>
 			<data>
 			O583CB+M5VSB1ett2IaUH/HDYEtZiY5U6ZGBTaah24c=
+			</data>
+		</dict>
+		<key>e2eeOff.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2lM3jRGx4vcxooNQDGUBAk6pq8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			stfPR0qy5q70EccyCbDurqJZYopvn8BX2fipzA6rYlg=
+			</data>
+		</dict>
+		<key>e2eeOn.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QeKavCEHdxmFCwmCClL9ESSwH0Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			sKuQ2khaRaxw749975R+kWQGMFJKckx6YDdj1BKrDdY=
 			</data>
 		</dict>
 		<key>image-resize@2x.png</key>
@@ -2653,6 +2765,17 @@
 			+3m6WsQW8WxE1tirOR2bTco1R1pwCCuGAEZeQsYeCMU=
 			</data>
 		</dict>
+		<key>knock.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CFeyhEw/bbxWz1b37NIWDziITZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			92l1sQRPZ7ZXilHf8K7TPjfrJWQ9HJyw4+eUnczZR7c=
+			</data>
+		</dict>
 		<key>left.wav</key>
 		<dict>
 			<key>hash</key>
@@ -2690,11 +2813,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HRnwhXQv/sypz7ylupEIf2Oul0g=
+			npkLDuBWd0d68W6xwdt6fzk43ek=
 			</data>
 			<key>hash2</key>
 			<data>
-			tVezC94Wmta8h+cQr5ES4UjuNQmd6tsefREp5oiqBlQ=
+			sA2dwKWLiShY5irlFlY5AHrkHKr87ieNwWiazjoPhyk=
+			</data>
+		</dict>
+		<key>noAudioSignal.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
+			</data>
+		</dict>
+		<key>noisyAudioInput.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
@@ -2717,6 +2862,83 @@
 			<key>hash2</key>
 			<data>
 			Ayr3NByzTZzhI3fRukuINKRNm2VGy/BoXbi5zY7DJw8=
+			</data>
+		</dict>
+		<key>reactions-laughter.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GsltbWhpAvOnNocr9qe+Ndmoo78=
+			</data>
+			<key>hash2</key>
+			<data>
+			+YtoSO/Ko6ZVrQD4TfW7YLfcbwxMz/Yz1/Lja2jitho=
+			</data>
+		</dict>
+		<key>reactions–applause.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pU11F8OUMsqMoZiggl/6mo8OuTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			lhH9q83RdKeoVN785tbMBWHXn+xbSsmJHgn4hTjPgcU=
+			</data>
+		</dict>
+		<key>reactions–boo.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kxfw3HZrfhubWnpeSIWayb7xatU=
+			</data>
+			<key>hash2</key>
+			<data>
+			SMc5sXi77SoUqTXBzm06R2r6mgZUpsPEpEzO++d88q0=
+			</data>
+		</dict>
+		<key>reactions–crickets.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bp63PjQLvViuIMEeyOPTz2Ag5z4=
+			</data>
+			<key>hash2</key>
+			<data>
+			XEpozmL9WveQdoTxB0pEhUkApF+iVVKW5UFJTvKIaq0=
+			</data>
+		</dict>
+		<key>reactions–raised-hand.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kj37WWDHEpCv1rgVlJINycn2oXo=
+			</data>
+			<key>hash2</key>
+			<data>
+			+DLpMqyJPqdY+83RQe5z6KI5+sil+fY7F43uj47kbaE=
+			</data>
+		</dict>
+		<key>reactions–surprise.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BVc3QdLsD2G3iOfGkxzUT1LL/BU=
+			</data>
+			<key>hash2</key>
+			<data>
+			7xD6bluN7ZD+XZm/tisI2S1qGFO0vxPzIumdJJNleR4=
+			</data>
+		</dict>
+		<key>reactions–thumbs-up.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a0uzLf7vzAJ/YANuzYLJ8bNvMrA=
+			</data>
+			<key>hash2</key>
+			<data>
+			yomCL3/U78obOTLaoSwPfBP8oIjGvmkbzKwEnkRHv10=
 			</data>
 		</dict>
 		<key>recordingOff.mp3</key>
@@ -2750,6 +2972,39 @@
 			<key>hash2</key>
 			<data>
 			mr6fLyl8mg0jSEaG+DF3uM4G22CuPMP7zWD7amaUNVo=
+			</data>
+		</dict>
+		<key>ring.ogg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vp7BdLKgfQ8UDC6FQyaWi5XDfHY=
+			</data>
+			<key>hash2</key>
+			<data>
+			onuFWdYmgDNb00j2Yty0UkTZQYkPKgEis3XDMI9HEFo=
+			</data>
+		</dict>
+		<key>ring.wav</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ht5IyzdZ+KTa5cPdFtnffFx94sU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yW6zgmHQlezTx/QyC/oXW9yn3Zg2GxuqPGBZMwmTEtc=
+			</data>
+		</dict>
+		<key>talkWhileMuted.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7mOE09NxMUJIwlzOxiz5VZxqGW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PPOBMYLpLMV+bNy1H/xX13K+8ZuuV47vVBB3nn0UqQ=
 			</data>
 		</dict>
 	</dict>
